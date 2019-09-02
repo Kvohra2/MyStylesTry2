@@ -1,4 +1,3 @@
-# MyStylesTry2 **** server side person was here!
+# MyStylesTry2 UI Person is here!!!!!
 
-
-*More server side stuff
+%%tacos and potatoes%%
